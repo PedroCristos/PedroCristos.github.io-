@@ -46,5 +46,5 @@ Portuguese (basic)
 ## Contact
 
 Email: pedrocristosmartinez@gmail.com 
-LinkedIn: (https://www.linkedin.com/in/pedro-cristos-981309303/)
-GitHub: (https://github.com/PedroCristos).
+LinkedIn: (https://www.linkedin.com/in/pedro-cristos-981309303/)  
+GitHub: (https://github.com/PedroCristos)
